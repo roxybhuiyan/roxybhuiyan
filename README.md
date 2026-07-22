@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is roxy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) iam roxy
 =============================================================================================================================
 
-Full-Stack Web & Blockchain Developer | Building Scalable Web Apps & SaaS Products
+a Full-Stack Web & Blockchain Developer | Building Scalable Web Apps & SaaS Products
 ----------------------------------------------------------------------------------
 
 💻 🤖 Full Stack Development with AI / LLM Integration: I develop modern, scalable, and high-performance web applications using React, Next.js, TypeScript, Node.js, REST APIs, PostgreSQL, MongoDB — clean, scalable, production-ready. GPT, Claude, Gemini — chatbots, RAG pipelines, AI copilots embedded into your product.
